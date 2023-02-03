@@ -16,7 +16,17 @@ The appearance of the Notepad app is similar to the standard Windows Notepad, wi
 
 ### Light Titlebar :
 
-![image](https://user-images.githubusercontent.com/50498845/216619202-12e043f7-6fc7-465b-bcbc-39d9a1d3e787.png)
+![image](https://user-images.githubusercontent.com/50498845/216619355-fbb12768-5d77-4a59-887f-aecbcd4b54eb.png)
+
+## Menus
+
+### File Menu : 
+
+The File menu in the notepad app contains options for creating a new file, opening an existing file, saving the current file, and saving the file with a different name. These options allow the user to easily manage their text documents, ensuring that their work is saved and accessible. Additionally, the File menu also contains options to save the current file as a different file format, such as plain text, rich text, or PDF.
+
+![image](https://user-images.githubusercontent.com/50498845/216619776-ea46e390-0123-43b4-8b71-7fc887c49299.png)
+
+
 
 
 

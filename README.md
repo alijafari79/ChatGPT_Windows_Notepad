@@ -47,6 +47,16 @@ Also adding other themes is easy.
 ![image](https://user-images.githubusercontent.com/50498845/216621696-34190030-92fa-4284-8466-4da7e6a691a9.png)
 
 
+##### Light Mode :
+
+![image](https://user-images.githubusercontent.com/50498845/216625910-af874ff1-dfc8-482a-abf1-1ba1de7f7ed5.png)
+
+
+##### Dark Mode :
+
+![image](https://user-images.githubusercontent.com/50498845/216625788-a47fbcb2-c3bd-48fd-a1a8-fa6368ecf610.png)
+
+
 ### Edit Menu :
 
 ![image](https://user-images.githubusercontent.com/50498845/216621799-a8d712bb-5e70-4edc-b32b-2e900b63b697.png)
@@ -59,6 +69,10 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 
 ![image](https://user-images.githubusercontent.com/50498845/216622244-f3430185-3604-4c0d-a7cd-6eb7ced84987.png)
 
+
+#### Replace Functionality :
+
+![image](https://user-images.githubusercontent.com/50498845/216622624-72f284d6-2a6f-4e24-b7d2-32b55324846f.png)
 
 
 

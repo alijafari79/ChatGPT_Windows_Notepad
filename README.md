@@ -27,6 +27,40 @@ The File menu in the notepad app contains options for creating a new file, openi
 ![image](https://user-images.githubusercontent.com/50498845/216619776-ea46e390-0123-43b4-8b71-7fc887c49299.png)
 
 
+### Preferences Menu :
+
+The "Preferences" menu in the notepad app allows the user to change the appearance of the text. The user can choose from different themes, such as "Light" and "Dark", to alter the background color of the text editor. Additionally, the user can change the font style used to display the text. These options allow the user to customize their notepad experience to their liking.
+
+![image](https://user-images.githubusercontent.com/50498845/216620979-a43cfa1e-3755-43c1-9578-585330cd008d.png)
+
+#### Fonts :
+
+Other fonts can be added easily.
+
+![image](https://user-images.githubusercontent.com/50498845/216621310-939178a3-3b66-4911-96bc-e1b70f4df767.png)
+
+
+#### Themes :
+
+Also adding other themes is easy.
+
+![image](https://user-images.githubusercontent.com/50498845/216621696-34190030-92fa-4284-8466-4da7e6a691a9.png)
+
+
+### Edit Menu :
+
+![image](https://user-images.githubusercontent.com/50498845/216621799-a8d712bb-5e70-4edc-b32b-2e900b63b697.png)
+
+#### Find Fuctionality :
+
+The "Find" option in the "Edit" tab allows users to search for specific text within the contents of the notepad. It opens a pop-up window where users can input the text they want to search for and the app will highlight all instances of that text within the main text area. This feature is useful for quickly locating specific information within a large document.
+
+![image](https://user-images.githubusercontent.com/50498845/216622152-925a0168-b93e-4217-9eb5-a3cefe5af3c0.png)
+
+![image](https://user-images.githubusercontent.com/50498845/216622244-f3430185-3604-4c0d-a7cd-6eb7ced84987.png)
+
+
+
 
 
 

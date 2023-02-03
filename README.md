@@ -16,5 +16,7 @@ The appearance of the Notepad app is similar to the standard Windows Notepad, wi
 
 ### Light Titlebar :
 
-![image](https://user-images.githubusercontent.com/50498845/216618972-ef083b11-08fd-4bc9-838f-d563d8b33658.png)
+![image](https://user-images.githubusercontent.com/50498845/216619202-12e043f7-6fc7-465b-bcbc-39d9a1d3e787.png)
+
+
 

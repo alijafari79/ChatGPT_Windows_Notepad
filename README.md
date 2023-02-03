@@ -1,4 +1,4 @@
-# ChatGPT Windows Notepad
+# ChatGPT Windows Notepad (Python)
 ChatGPT Helped Developing App like Windows Notepad using python
 
 This tkinter notepad project is a desktop application that is similar to the classic Windows Notepad app. It has a menu bar with File, Edit and Preferences tabs. The File tab allows you to create a new file, open an existing file, and save the current file. The Edit tab has sub menus for Undo, Copy, Paste, Find, Replace and Find Next. The Preferences tab allows you to change the theme of the application, including some custom themes like Dark Monoki and White themes. Overall, this tkinter notepad project is a simple, yet powerful tool for editing text files, offering many of the same features as the traditional Windows Notepad app.

@@ -76,5 +76,5 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 
 
 
-
+### The Source Of the Python Code for the Notepad will be published Soon.
 

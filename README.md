@@ -10,7 +10,7 @@ Descrition provided by ChatGPT :)
 
 A simple splash screen was created for the app, featuring an image in the center of the screen. The image has the same dimensions as the app and is placed in the center of the screen. This splash screen is displayed at the beginning of the app launch, and transitions smoothly into the main app window.
 
-![splash](https://user-images.githubusercontent.com/50498845/219903952-8632b972-f9a4-4a9e-9a14-4cafdb4ca775.png)
+![image](https://user-images.githubusercontent.com/50498845/219904030-66d21ee5-c186-4ae9-ae7e-f3933da98baa.png)
 
 
 
@@ -80,8 +80,10 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 
 #### Replace Functionality :
 
-![image](https://user-images.githubusercontent.com/50498845/216622624-72f284d6-2a6f-4e24-b7d2-32b55324846f.png)
+![image](https://user-images.githubusercontent.com/50498845/219904314-30e91bca-5082-45a8-ab57-fc8562a563bf.png)
 
+
+![image](https://user-images.githubusercontent.com/50498845/219904333-e6300d86-2e1a-47bc-8b72-6619a4e67f9e.png)
 
 
 ### The Source Of the Python Code for the Notepad will be published Soon.

@@ -6,6 +6,14 @@ This tkinter notepad project is a desktop application that is similar to the cla
 Descrition provided by ChatGPT :)
 
 
+## Splash Screen
+
+A simple splash screen was created for the app, featuring an image in the center of the screen. The image has the same dimensions as the app and is placed in the center of the screen. This splash screen is displayed at the beginning of the app launch, and transitions smoothly into the main app window.
+
+![splash](https://user-images.githubusercontent.com/50498845/219903952-8632b972-f9a4-4a9e-9a14-4cafdb4ca775.png)
+
+
+
 ## Appearance
 
 The appearance of the Notepad app is similar to the standard Windows Notepad, with a menu bar at the top containing the File, Edit, and Preferences tabs. The text area is located in the center of the window, with a scrollbar for scrolling through the text. The menu bar and text area have a clean and simple design, making it easy to use and navigate. The File tab includes options for creating a new file, opening an existing file, and saving a file. The Edit tab includes options for undoing changes, copying and pasting text, finding and replacing text, and finding the next occurrence of a specific word. The Preferences tab includes options for changing the font, selecting a theme, and adjusting the appearance of the text area. Overall, the Notepad app is a great alternative to the standard Windows Notepad, offering more options and customization for the user.

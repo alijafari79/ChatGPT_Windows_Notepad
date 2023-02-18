@@ -95,12 +95,3 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 Feel Free to Use :)
 
 
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/alijafari79/ChatGPT_Windows_Notepad" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star alijafari79/ChatGPT_Windows_Notepad on GitHub">Star</a>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>

@@ -82,8 +82,13 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 
 ![image](https://user-images.githubusercontent.com/50498845/219904314-30e91bca-5082-45a8-ab57-fc8562a563bf.png)
 
+##### Case Sensitive :
 
 ![image](https://user-images.githubusercontent.com/50498845/219904333-e6300d86-2e1a-47bc-8b72-6619a4e67f9e.png)
+
+##### Not Case Sensitive :
+
+![image](https://user-images.githubusercontent.com/50498845/219904361-af8e15b0-6b63-4d79-aae5-b7fb50bbda69.png)
 
 
 ### The Source Of the Python Code for the Notepad will be published Soon.

@@ -91,5 +91,6 @@ The "Find" option in the "Edit" tab allows users to search for specific text wit
 ![image](https://user-images.githubusercontent.com/50498845/219904361-af8e15b0-6b63-4d79-aae5-b7fb50bbda69.png)
 
 
-### The Source Of the Python Code for the Notepad will be published Soon.
+### The Source Of the Python Code is added.
+Feel Free to Use :)
 
